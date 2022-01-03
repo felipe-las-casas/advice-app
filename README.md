@@ -1,5 +1,3 @@
 # advice-app
 
-## Ideia:
-
-É uma aplicação que através de uma API gera conselhos
+It's a Javascript application that shows advices
